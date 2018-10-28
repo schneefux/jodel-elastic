@@ -1,0 +1,4 @@
+ELASTIC_URI = "https://user:pass@elast.host.local:443"
+
+ACCOUNTS = [
+]

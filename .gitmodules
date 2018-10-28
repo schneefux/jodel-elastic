@@ -1,0 +1,3 @@
+[submodule "jodel_api"]
+	path = jodel_api
+	url = https://github.com/wetterfroschdus/jodel_api
